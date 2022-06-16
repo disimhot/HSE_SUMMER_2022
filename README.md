@@ -13,7 +13,9 @@ Homework 2 - 20
 
 Homework 3 - 20
 
-Homework Kaggle - 40 (Kaggle competetion winner passes the course automaticaly)
+Homework Kaggle (3 parts) - 60 (20 + 20 + 20) (Kaggle competetion winner passes the course automaticaly)
+
+Homework 4 - 20
 
 
 ### ~Min score to pass the course = 70
