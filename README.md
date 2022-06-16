@@ -13,7 +13,7 @@ Homework 2 - 20
 
 Homework 3 - 20
 
-Homework Kaggle (3 parts) - 60 (20 + 20 + 20) (Kaggle competetion winner passes the course automaticaly)
+Homework Kaggle (3 parts) - 60 (20 + 20 + 20) (Kaggle competetion winner passes the course automatically)
 
 Homework 4 - 20
 
