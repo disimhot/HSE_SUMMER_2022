@@ -3,7 +3,9 @@ HSE DL course
 
 
 ## Deadlines:
-Homework 1: 2022-06-27 23:59:59
+Homework 1: 2022-06-29 23:59:59
+
+Homework 2: 2022-07-11 23:59:59
 
 
 ## Scores for HomeWorks:
