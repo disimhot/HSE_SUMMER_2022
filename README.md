@@ -21,3 +21,5 @@ Homework 4 - 20
 
 
 ### ~Min score to pass the course = 70
+
+### Course results are [here](https://docs.google.com/spreadsheets/d/1mYzNWnhsvT5IkhiVAk85L-0INvhgCezBh_7uh5bHbQw/edit?usp=sharing)
